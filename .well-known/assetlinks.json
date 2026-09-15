@@ -1,12 +1,8 @@
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.coachflux.fruitfusion",
-      "sha256_cert_fingerprints": [
-        "REPLACE_WITH_THE_SHA256_CERTIFICATE_FINGERPRINT_FROM_PWABUILDER"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.coachflux.fruitfusion",
+        "sha256_cert_fingerprints": ["5D:C9:17:47:14:C6:FA:F4:A0:1C:1E:65:69:20:37:0E:6F:11:EB:2F:9F:1B:44:F6:99:06:8A:68:56:92:99:45"]
+      }
+    }]
